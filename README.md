@@ -16,9 +16,9 @@ A continuación, se presenta la lista de compañeros que forman parte de este pr
 
 | Nombre                | GitHub                          |
 |-----------------------|---------------------------------|
-| Nombre del compañero 1 | [Perfil de GitHub 1](#)         |
-| Nombre del compañero 2 | [Perfil de GitHub 2](#)         |
-| Nombre del compañero 3 | [Perfil de GitHub 3](#)         |
+| Nombre del compañero 1 | #AlbertoMosquera               |
+| Nombre del compañero 2 | #ELIASFDEZZ                    |
+| Nombre del compañero 3 | #josejosejose12                |
 
 
 ---
