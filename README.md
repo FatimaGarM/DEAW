@@ -1,6 +1,6 @@
 # Proyecto DEAW 🌟
 
-¡Bienvenidos al repositorio del **Proyecto DEAW**! Este proyecto forma parte del módulo de **Entornos de Desarrollo** y está diseñado para practicar y aprender a usar **Git** y **GitHub** de manera efectiva. Es un espacio colaborativo para realizar ejercicios y mejorar nuestras habilidades como desarrolladores. 🚀
+¡Bienvenidos al repositorio del **Proyecto DEAW**! Este proyecto forma parte del módulo de **Entornos de Desarrollo** y está diseñado para practicar y aprender a usar **Git** y **GitHub** de manera efectiva. Es un espacio colaborativo para realizar ejercicios y mejorar nuestras habilidades como desarrolladores. 
 
 ---
 
